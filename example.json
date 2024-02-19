@@ -1,5 +1,5 @@
 {
   "start": "yes",
-  "display": "no",
-  "id": "ads id"
+  "display": "yes",
+  "ad_id": "this is ad id"
 }
